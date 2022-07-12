@@ -1,5 +1,5 @@
 ```
-var numbers = new List<int> { 1, 2, 3, 4, 5 };
+            var numbers = new List<int> { 1, 2, 3, 4, 5 };
             var students1 = new List<Student>() {
                 new Student{ Name="nxg1",Age = 1 },
                 new Student{ Name="nxg2",Age = 3 },
@@ -26,4 +26,4 @@ var numbers = new List<int> { 1, 2, 3, 4, 5 };
 
             Console.WriteLine($"maxAge: {maxAge.Age}");
             
-            ```
+```
