@@ -1,4 +1,4 @@
-#usage of aggragate:
+# usage of aggragate:
 
 ```
 var numbers = new List<int> { 1, 2, 3, 4, 5 };
@@ -29,6 +29,6 @@ Student maxAge = students1.Aggregate((st1, st2) =>
 Console.WriteLine($"maxAge: {maxAge.Age}");
 ```
 
-#output:
+# output:
 
 ![output](/contents/images/aggragate.PNG)
