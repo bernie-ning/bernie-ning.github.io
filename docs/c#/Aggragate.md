@@ -1,4 +1,4 @@
-           `
+           ```
            var numbers = new List<int> { 1, 2, 3, 4, 5 };
             var students1 = new List<Student>() {
                 new Student{ Name="nxg1",Age = 1 },
@@ -25,5 +25,5 @@
             });
 
             Console.WriteLine($"maxAge: {maxAge.Age}");
-            `
+            ```
             
