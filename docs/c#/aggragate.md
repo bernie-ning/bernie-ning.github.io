@@ -30,4 +30,5 @@ Console.WriteLine($"maxAge: {maxAge.Age}");
 ```
 
 #output:
+
 ![output](/contents/images/aggragate.PNG)
