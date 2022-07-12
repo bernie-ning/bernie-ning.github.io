@@ -1,2 +1,2 @@
-## c#  
-    &emsp;&emsp;[aggragate](/docs/csharp/aggragate.md)
+## c#
+   &emsp;&emsp;[aggragate](/docs/csharp/aggragate.md)
